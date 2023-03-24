@@ -1,0 +1,3 @@
+# Auftrag
+>>> print("Hello")
+Hello
