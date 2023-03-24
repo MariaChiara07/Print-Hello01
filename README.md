@@ -1,3 +1,2 @@
 # Auftrag
 >>> print("Hello")
-Hello
